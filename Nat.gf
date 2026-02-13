@@ -1,4 +1,4 @@
-abstract test = {
+abstract Nat = {
 
 cat N ;
 data z : N ;
